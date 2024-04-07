@@ -9,6 +9,7 @@ One-file social network written fully by cursor.sh &amp; gpt4 in one hour. Easy 
 # Features:
 + Realtime messaging
 + Profile viewing / description
++ Easy database setup
 
 This project was done while testing the new IDE https://cursor.sh/. In my experience regular chat with gpt4 works much better than the built-in chat in this IDE :/
 It may also contain vulnerabilities since the whole code was written by a neural network, but I didn't find any. You are free to use this code as you wish! I think someone could use it for a school project.
